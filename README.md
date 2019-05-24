@@ -12,21 +12,21 @@ Peut détecter le mildiou, le chancre bactérien, la tache grise et une plante e
 ## Configuration de l’espace de travail
 Outils utilisés : Python3, tensorflow 1.0, numpy, opencv 3, pyqt5
 Pour installer ces outils, exécuter les commandes suivantes dans l’invite de commande (bien sur après avoir installé le logiciel python) :
-$ pip3 install opencv-contrib-python 
-$ pip3 install tensorflow 
-$ pip3 install numpy 
-$ pip3 install pyqt5
-$ pip install Cython
-Installer Microsoft Visual C++ 14.0 en utilisant le lien suivant pour télécharger : https://aka.ms/vs/16/release/VC_redist.x64.exe 
+* >> $ pip3 install opencv-contrib-python 
+* >> $ pip3 install tensorflow 
+* >> $ pip3 install numpy 
+* >> $ pip3 install pyqt5
+* >> $ pip install Cython
+* Installer Microsoft Visual C++ 14.0 en utilisant le lien suivant pour télécharger : https://aka.ms/vs/16/release/VC_redist.x64.exe 
 
 
 ## Aperçu de l'interface
 <p align="center"> <img src="gray_spot.png"/> </p>
 
 
-### Getting started
+### Commencer
 
-You can choose _one_ of the following three ways to get started with darkflow.
+Utiliser le guide suivant: 
 
 1.  git clone https://github.com/tsopnangsr/detection-des-maladies-de-la-tomate.git
 2.  cd detection-des-maladies-de-la-tomate
