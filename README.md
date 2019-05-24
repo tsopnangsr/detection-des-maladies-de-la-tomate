@@ -16,8 +16,9 @@ Pour installer ces outils, exécuter les commandes suivantes dans l’invite de 
 * >> $ pip3 install tensorflow 
 * >> $ pip3 install numpy 
 * >> $ pip3 install pyqt5
-* >> $ pip install Cython
-* Installer Microsoft Visual C++ 14.0 en utilisant le lien suivant pour télécharger : https://aka.ms/vs/16/release/VC_redist.x64.exe 
+* >> $ pip3 install Cython
+* Installer Microsoft Visual C++ 14.0 en utilisant le lien suivant pour télécharger : https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017 
+	- Ou encore: https://aka.ms/vs/16/release/VC_redist.x64.exe 
 
 
 ## Aperçu de l'interface
